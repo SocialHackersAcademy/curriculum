@@ -1,12 +1,12 @@
 # I'm a (new) teacher!
 
-### Super nice that you are interested in becoming part of the HYF teaching team! Below you can find information about what it entails to be a volunteer, and what role you can play in our organsisation.
+### Super nice that you are interested in becoming part of the SHA teaching team! Below you can find information about what it entails to be a volunteer, and what role you can play in our organsisation.
 
 \*:information_desk_person: If you don't have access to one of the things mentioned below, ask Abed on Slack.
 
 **Introduction:**
 
-HackYourFuture is a program that teaches programming to refugees/newcomers in order to start their career as a software developer. Thanks to a large team of volunteers we are able to run our program and we have helped dozens (100+) of our students find jobs as programmers. Finding work has an incredible impact on the lives of our students, and our goal is to prepare them as well as possible for the demands of the job market.
+Social Hackers Academy, is a program that teaches programming to refugees, newcoming migrrants, and long term unemployed Greeks, in order to start their career as a software developer. Thanks to a large team of volunteers we are able to run our program and we have helped dozens (100+) of our students find jobs as programmers. Finding work has an incredible impact on the lives of our students, and our goal is to prepare them as well as possible for the demands of the job market.
 
 Our program consists of 8 modules:
 
@@ -25,7 +25,7 @@ Total: 28 weeks
 
 **Roles**
 
-Within HackYourFuture you can be active in various roles, depending on your skillset, experience, preference and availability.
+Within Social Hackers Academy you can be active in various roles, depending on your skillset, experience, preference and availability.
 
 Teachers:
 
@@ -44,7 +44,6 @@ After graduation we do mock interviews with our students in order to train their
 The first step of onboarding is to invite you over to our classrooms on a Sunday. We will guide you through our classrooms,introduce you to some students/teachers, and will ask you to sit in a few classes to explore how our program works in reality. After this we hope you have a better picture of
 
 1. whether you like being a volunteer
-2. what role you'd like to play within HackYourFuture
 
 Based on your skillset and availability you will be asked to teach/TA for a specific module by the Education Director.
 
@@ -56,9 +55,9 @@ Based on your skillset and availability you will be asked to teach/TA for a spec
 **Modules**
 
 - All modules have their own repository in our Github organization.
-- For more detailed information on the curriculum have a look at our [curriculum on Github](https://github.com/HackYourFuture/curriculum). Here you can find information about when/how and what we teach.
+- For more detailed information on the curriculum have a look at our [curriculum on Github](https://github.com/SocialHackersAcademy/curriculum). Here you can find information about when/how and what we teach.
 - We divided everyone in our organization into teams, we have a teachers team, a team for every class etc. which all have different permissions.
-- We have a repository where fellow teachers share their [BestTeachingPractices](https://github.com/HackYourFuture/teaching_tips_tricks), if you are new to teaching or are just curious on what they think works well in class, take a look.
+- We have a repository where fellow teachers share their [BestTeachingPractices](https://github.com/SocialHackersAcademy/teaching_tips_tricks), if you are new to teaching or are just curious on what they think works well in class, take a look.
 - If you are teaching a certain module and would like to make changes on the contents of the repo, please create a branch with your name and your fellow teacher, like: `yourname_othername`. Our master branches are protected, if you would like to change something to the default module please make a PR.
 - We highly encourage you to make pull-requests to improve our curriculum!
 
