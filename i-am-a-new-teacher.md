@@ -2,7 +2,7 @@
 
 ### Super nice that you are interested in becoming part of the HYF teaching team! Below you can find information about what it entails to be a volunteer, and what role you can play in our organsisation.
 
-\*:information_desk_person: If you don't have access to one of the things mentioned below, ask Wouter.
+\*:information_desk_person: If you don't have access to one of the things mentioned below, ask Abed on Slack.
 
 **Introduction:**
 
